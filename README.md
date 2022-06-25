@@ -1,4 +1,6 @@
-# corf_n
+Edit: June 2022, This repsitory is abandoned.
+
+
 Terrain renderer, CDLOD, OpenGL, C *wip*
 
 Code pieces from:
